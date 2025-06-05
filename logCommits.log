@@ -1,0 +1,23 @@
+commit 2b069c188ae99d0c5d5e44c31d7c551131025abe
+Author: Federico Margueliche <federicomargueliche@gmail.com>
+Date:   Thu Jun 5 13:24:31 2025 -0300
+
+    Se agregaron las resoluciones a las actividades propuestas
+
+commit 4e32e56a660875aaa5040919cbec05661b15550a
+Author: Francisco Montiron <franciscomontiron@gmail.com>
+Date:   Thu Jun 5 13:22:28 2025 -0300
+
+    Add: Enunciados de actividades propuestas en clase
+
+commit 9239517a337d3ce37ca0f75e3594cdd26734ae09
+Author: Francisco Montiron <franciscomontiron@gmail.com>
+Date:   Thu Jun 5 12:55:17 2025 -0300
+
+    v1: Se agrega  estructura inicial de archivos de la clase
+
+commit ed7b6b61f3de958dccea0575e8e22cb2856efecb
+Author: Federico Margueliche <federicomargueliche@gmail.com>
+Date:   Thu Jun 5 12:45:18 2025 -0300
+
+    Initial commit
