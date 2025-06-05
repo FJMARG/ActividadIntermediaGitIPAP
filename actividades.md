@@ -3,4 +3,7 @@
 **Docente:** Agustín Parmisano  
 **Fecha:** [5/06/2025]
 
-## 1. Archivos de la clase
+---
+
+# 1- Diferencias entre Subversion y Git
+# 2- Diferencias entre Git Lab y Git Hub.
